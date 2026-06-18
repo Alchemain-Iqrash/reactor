@@ -198,11 +198,6 @@
 			<version>${junit-version}</version>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-            <groupId>org.codehaus.mojo</groupId>
-            <artifactId>extra-enforcer-rules</artifactId>
-            <version>1.0-beta-5</version>
-        </dependency>
         <dependency>
         	<groupId>org.project</groupId>
         	<artifactId>reusable-test-support</artifactId>

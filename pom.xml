@@ -198,11 +198,11 @@
 			<version>${junit-version}</version>
 			<scope>test</scope>
 		</dependency>
-        <dependency>
-        	<groupId>org.project</groupId>
-        	<artifactId>reusable-test-support</artifactId>
-          	<version>1.0</version>
-        </dependency>
+		<dependency>
+  			<groupId>com.example.dummy</groupId>
+  <			<artifactId>dummy-policy-test</artifactId>
+  			<version>1.0.0</version>
+		</dependency>
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
 			<artifactId>logback-classic</artifactId>
